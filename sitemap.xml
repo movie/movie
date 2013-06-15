@@ -20,4 +20,8 @@
         <loc>http://movie.github.io/movie/robots.txt</loc>
         <lastmod>2013-06-15T19:05:54+08:00</lastmod>
     </url>
+    <url>
+        <loc>http://movie.github.io/movie/url/</loc>
+        <lastmod>2013-06-15T19:40:54+08:00</lastmod>
+    </url>
 </urlset>
