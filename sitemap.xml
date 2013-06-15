@@ -1,12 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://movie.github.io/movie/blog/2013/06/15/jjtian/</loc>
+        <lastmod>2013-06-15T19:45:48+08:00</lastmod>
+    </url>
+    <url>
         <loc>http://movie.github.io/movie/404.html</loc>
         <lastmod>2013-06-15T19:05:54+08:00</lastmod>
     </url>
     <url>
-        <loc>http://movie.github.io/movie/blog/archives/</loc>
-        <lastmod>2013-06-15T19:05:54+08:00</lastmod>
+        <loc>http://movie.github.io/movie/about/</loc>
+        <lastmod>2013-06-15T19:54:47+08:00</lastmod>
+    </url>
+    <url>
+        <loc>http://movie.github.io/movie/archives/</loc>
+        <lastmod>2013-06-15T19:54:50+08:00</lastmod>
     </url>
     <url>
         <loc>http://movie.github.io/movie/humans.txt</loc>
@@ -14,7 +22,7 @@
     </url>
     <url>
         <loc>http://movie.github.io/movie/</loc>
-        <lastmod>2013-06-15T19:05:54+08:00</lastmod>
+        <lastmod>2013-06-15T19:45:48+08:00</lastmod>
     </url>
     <url>
         <loc>http://movie.github.io/movie/robots.txt</loc>

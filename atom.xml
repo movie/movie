@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Kaka]]></title>
+  <title><![CDATA[骚年万岁]]></title>
   <link href="http://movie.github.io/movie/atom.xml" rel="self"/>
   <link href="http://movie.github.io/movie/"/>
-  <updated>2013-06-15T19:42:07+08:00</updated>
+  <updated>2013-06-15T19:55:45+08:00</updated>
   <id>http://movie.github.io/movie/</id>
   <author>
     <name><![CDATA[Kaka]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[]]></title>
+    <link href="http://movie.github.io/movie/blog/2013/06/15/jjtian/"/>
+    <updated>2013-06-15T19:44:00+08:00</updated>
+    <id>http://movie.github.io/movie/blog/2013/06/15/jjtian</id>
+    <content type="html"><![CDATA[<p>你个JJ填，哇哈哈哈</p>
+]]></content>
+  </entry>
   
 </feed>
